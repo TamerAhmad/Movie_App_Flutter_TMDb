@@ -12,7 +12,7 @@ The App Has:
 
 Movie attributes: (poster, backposter, title, overview, year, rate, language, family check)
 
-**Note: you need to provide TMDb api key for application work well with you. Located at (lib/tools/api_key.dart)**
+**Note: you need to provide TMDb api key for application to work well with you. Located at (lib/tools/api_key.dart)**
 
 ### Support Me
 ![](https://user-images.githubusercontent.com/38374139/82101919-8c787280-9716-11ea-88fb-2dfe98eafb3c.png)
